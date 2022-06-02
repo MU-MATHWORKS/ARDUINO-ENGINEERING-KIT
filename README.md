@@ -56,5 +56,5 @@ In this repository you can find a series of scripts that will allow you to start
 the drawing robot, and as you complete each task you will learn new concepts.
 
 
-# **Mondragon University in collaboration with Mathworks**
+# **Mondragon University in collaboration with MathWorks**
 https://www.mondragon.edu/en/home
