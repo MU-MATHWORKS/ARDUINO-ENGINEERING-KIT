@@ -18,31 +18,31 @@ different models in operation.
 ## **DRAWING ROBOT**
 - Mathworks logo: https://youtu.be/YuFlsLzZnIw
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/mathworks.JPG)](https://youtu.be/YuFlsLzZnIw)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/mathworks.JPG)](https://youtu.be/YuFlsLzZnIw)
 - Pokemon: https://youtu.be/cViLIO5dX6o
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/pokemon.JPG)](https://youtu.be/cViLIO5dX6o)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/pokemon.JPG)](https://youtu.be/cViLIO5dX6o)
 - Espiral: https://youtu.be/faLJxsnkXCg
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/espiral.JPG)](https://youtu.be/faLJxsnkXCg)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/espiral.JPG)](https://youtu.be/faLJxsnkXCg)
 - Flower: https://youtu.be/Y-A18A30FVo
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/flower.JPG)](https://youtu.be/Y-A18A30FVo)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/flower.JPG)](https://youtu.be/Y-A18A30FVo)
 - Heart: https://youtu.be/bS0lF6DEb8U
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/heart.JPG)](https://youtu.be/bS0lF6DEb8U)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/heart.JPG)](https://youtu.be/bS0lF6DEb8U)
 - Happy Face: https://youtu.be/lzMO_RyHmwg
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/happyFace.JPG)](https://youtu.be/lzMO_RyHmwg)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/happyFace.JPG)](https://youtu.be/lzMO_RyHmwg)
 
 ## **WEBCAM CONTROLLED ROVER**
 - Rover: https://youtu.be/rSzBjtUX7yM
 
-[![WEBCAM CONTROLLED ROVER](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/rover.JPG)](https://youtu.be/rSzBjtUX7yM)
+[![WEBCAM CONTROLLED ROVER](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/rover.JPG)](https://youtu.be/rSzBjtUX7yM)
 
 ## **SELF-BALANCING MOTORCYCLE**
 - Motorcycle: https://youtu.be/hrxSdM6riCc
 
-[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/motorcycle.JPG)](https://youtu.be/hrxSdM6riCc)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/MiscellaneousMaterial/blob/main/img/motorcycle.JPG)](https://youtu.be/hrxSdM6riCc)
 
 
