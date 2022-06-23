@@ -24,7 +24,7 @@ different models in operation.
 [![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/MiscellaneousMaterial/img/pokemon.JPG)](https://youtu.be/cViLIO5dX6o)
 - Espiral: https://youtu.be/faLJxsnkXCg
 
-[![SELF-BALANCING MOTORCYCLE]https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/MiscellaneousMaterial/img/espiral.JPG)](https://youtu.be/faLJxsnkXCg)
+[![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/MiscellaneousMaterial/img/espiral.JPG)](https://youtu.be/faLJxsnkXCg)
 - Flower: https://youtu.be/Y-A18A30FVo
 
 [![SELF-BALANCING MOTORCYCLE](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/MiscellaneousMaterial/img/flower.JPG)](https://youtu.be/Y-A18A30FVo)
