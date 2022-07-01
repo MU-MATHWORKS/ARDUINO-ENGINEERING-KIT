@@ -41,7 +41,8 @@ realiza cambios en las cátedras impartidas en la mencionada universidad:
 
 ## **ROBOT DIBUJANTE**
 
-<img src="https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/drawing_robot.jpg" width="600">
+<img src="https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/drawing_robot.jpg" width="600">
+
 Crea un robot que extraiga el delineado de una imagen y prográmalo para
 reproducir y duplicar imágenes en una pizarra. Aprenderás sobre física,
 programación y robótica.
@@ -60,7 +61,7 @@ programación y robótica.
 
 ## **ROVER CONTROLADO POR CÁMARA WEB**
 
-<img src="https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/webcam_controlled_rover.jpg" width="600">
+<img src="https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/webcam_controlled_rover.jpg" width="600">
 
 Crea y programa un rover móvil que siga caminos, mueva objetos con una
 carretilla elevadora y evite obstáculos. Aprenderás sobre robots con motores
@@ -85,7 +86,7 @@ hacer ubicaciones.
 
 ## **MOTOCICLETA AUTOEQUILIBRANTE**
 
-<img src="https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/self_balancing_cycle.jpg" width="600">
+<img src="https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/self_balancing_cycle.jpg" width="600">
 
 Crea y programa una motocicleta que se equilibre y maniobre por sí sola con un
 volante de inercia. Aprenderás sobre física, algoritmos de control y a simular
@@ -129,7 +130,8 @@ sentidos.
 
 Modifica el modelo para que se mueva realizando curvas. Utiliza el diagrama para
 ayudarte en tus pasos.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c01_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c01_ex.png)
 
 
 # **Matemática computacional**
@@ -160,7 +162,8 @@ figuras de la imagen.
 A partir de los dos ejemplos, extrae las 5 siguientes figuras analizando la
 composición de los colores. Veras como ejecutando un solo comando se realizan
 operaciones masivas sobre todos los elementos de las matrices.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c02_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c02_ex.png)
 
 # **Sistemas de control de lazo cerrado**
 
@@ -190,7 +193,8 @@ Compila el nuevo modelo y cárgalo en tu Arduino Engineering Kit.
 
 El modelo te permitirá hacer un análisis exhaustivo de las señales producidas
 por los elementos externos al subsistema de control.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c03_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c03_ex.png)
 
 # **Diseño basado en modelos**
 
@@ -222,7 +226,8 @@ recorrer la distancia indicada.
 Compara los resultados de tu modelo con el modelo “Parabolic Shoting”. Si los
 resultados no fueran los esperados, siempre puedes consultar los bloques
 internos de este último modelo.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c04_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c04_ex.png)
 
 # **Simulaciones**
 
@@ -257,7 +262,8 @@ Compila el nuevo modelo y simúlalo.
 Los visores te permitirán hacer un análisis exhaustivo de las señales
 producidas, con lo que podrás validar el movimiento del motor inercial antes de
 subirlo a tu Arduino Engineering Kit.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c05_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c05_ex.png)
 
 # **Movimiento del robot**
 
@@ -286,7 +292,8 @@ codificadores de las ruedas y los convierten en grados.
 
 El ejercicio consiste en modelar el subsistema “Degrees2Distance” para convertir
 grados de los codificadores a distancia media recorrida por el rover.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c06_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c06_ex.png)
 
 # **Cinemática diferencial**
 
@@ -309,7 +316,8 @@ bloque llamado “Signal Builder” con el que podrás definir la distancia que 
 rover a de realizar. Ejecuta el modelo con o sin ángulo de giro. El modelo
 realizará los cálculos necesarios para aumentar o disminuir la velocidad de cada
 eje.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c07_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c07_ex.png)
 
 # **Algoritmo de seguimiento de ruta**
 
@@ -345,7 +353,8 @@ path planning para crear los puntos de la ruta.
 Como curiosidad, si en ambos métodos defines el mismo origen y destino, podrás
 valorar si la ruta que definiste a mano es tan optima como la generada por el
 algoritmo PRM.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c08_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c08_ex.png)
 
 # **Procesamiento de imagen**
 
@@ -384,7 +393,8 @@ escenarios con más o menos luz.
 
 Recuerda que el espacio HSV tiene la ventaja de ser inalterable a las
 condiciones de luz.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c09_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c09_ex.png)
 
 # **Redes inalámbricas**
 
@@ -411,7 +421,7 @@ Compila el modelo Simulink “Wifi IO” y cárgalo en tu Arduino Engineering Ki
 Desde el script MATLAB del cliente podrás enviar la información necesaria para
 mover accionar el motor remotamente. Usando el script del servidor podrás
 recibir el voltaje de la batería.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c10_ex.png)
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c10_ex.png)
 
 # **Geometría coordinada**
 
@@ -433,7 +443,7 @@ La nueva posición del robot está definida por las variables Base, Z1 y Z2.
 
 Usa estos valores para calcular los valores actuales de x e y añadiendo lo
 necesario en el Live Script “Calculate Drawing Robot Position”.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c11_ex.png)
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c11_ex.png)
 
 # **Trigonometría**
 
@@ -460,5 +470,5 @@ destino.
 Ahora añade los cálculos necesarios para conseguir la distancia del eje central
 al punto de destino (en rojo) y ejecútalo. Podrás medir la distancia al punto en
 la pizarra y comprobar que tus cálculos son correctos.
-![](https://github.com/MU-MATHWORKS/AcademicMaterial/blob/main/img/c12_ex.png)
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c12_ex.png)
 
