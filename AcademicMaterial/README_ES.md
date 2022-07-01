@@ -470,5 +470,6 @@ destino.
 Ahora añade los cálculos necesarios para conseguir la distancia del eje central
 al punto de destino (en rojo) y ejecútalo. Podrás medir la distancia al punto en
 la pizarra y comprobar que tus cálculos son correctos.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c12_ex.png)
 
