@@ -129,6 +129,7 @@ The model will allow you to make the motorcycle move in one direction.
 
 Modifies the model so that it moves by making curves.Use the diagram to 
 help you in your steps.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c01_ex.png)
 
 
@@ -157,6 +158,7 @@ desired segments from the arrays that refer to the figures in the image.
 From the two examples, extract the following 5 figures by analyzing the
 composition of the colors. You will see how by executing a single command,
 massive operations are performed on all the elements of the arrays.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c02_ex.png)
 
 
@@ -219,6 +221,7 @@ indicated distance.
 Compare the results of your model with the “Parabolic Shoting” model. If the
 results are not as expected, you can always consult the internal blocks of this
 latest model.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c04_ex.png)
 
 # **Simulations**
@@ -254,6 +257,7 @@ Compile the new model and simulate it.
 The viewers will allow you to make an exhaustive analysis of the signals
 produced, with which you will be able to validate the movement of the inertial
 motor before uploading it to your Arduino Engineering Kit.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c05_ex.png)
 
 
@@ -284,6 +288,7 @@ and convert them to degrees.
 
 The exercise consists of modeling the "Degrees2Distance" subsystem to convert
 encoder degrees to the average distance traveled by the rover.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c06_ex.png)
 
 # **Diferential Kinematics**
@@ -307,6 +312,7 @@ called "Signal Builder" with which you can define the distance that the rover
 will travel. Runs the model with or without angle of rotation. The model will
 perform the necessary calculations to increase or decrease the speed of each
 axis.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c07_ex.png)
 
 # **Path following algorithm**
@@ -381,7 +387,8 @@ light.
 
 Remember that the HSV space has the advantage of being unalterable to light
 conditions.
-	![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c09_ex.png)
+
+![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c09_ex.png)
 	
 
 # **Wireless networks**
@@ -412,6 +419,7 @@ Kit.
 From the client's MATLAB script you can send the necessary information to
 remotely drive the motor. Using the server script you will be able to receive
 the battery voltage.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c10_ex.png)
 
 
@@ -433,6 +441,7 @@ The new position of the robot is defined by the variables Base, Z1 and Z2.
 
 Use these values to calculate the current values of x and y adding the necessary
 in the Live Script “Calculate Drawing Robot Position”.
+
 ![](https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/c11_ex.png)
 
 # **Trigonometry**
