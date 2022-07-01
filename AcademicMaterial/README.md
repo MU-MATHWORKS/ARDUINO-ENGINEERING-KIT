@@ -41,7 +41,7 @@ makes changes in the lectures imparted in the aforemencioned university:
 
 ## **DRAWING ROBOT**
 
-<img src="https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/tree/main/AcademicMaterial/img/drawing_robot.jpg" width="600">
+<img src="https://github.com/MU-MATHWORKS/ARDUINO-ENGINEERING-KIT/blob/main/AcademicMaterial/img/drawing_robot.jpg" width="600">
 
 Create a robot that extracts the outline from an image and program it to
 reproduce and duplicate images on a whiteboard. You will learn about physics,
